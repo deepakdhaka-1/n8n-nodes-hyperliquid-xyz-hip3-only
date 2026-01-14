@@ -22,7 +22,7 @@ npm install n8n-nodes-hyperliquid-hip3-only
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/n8n-nodes-hyperliquid-hip3-only.git
+git clone https://github.com/deepakdhaka-1/n8n-nodes-hyperliquid-hip3-only.git
 cd n8n-nodes-hyperliquid-hip3-only
 
 # Install dependencies
