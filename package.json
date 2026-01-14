@@ -1,0 +1,23 @@
+{
+  "name": "n8n-nodes-hyperliquid-xyz-hip3",
+  "version": "1.0.0",
+  "description": "n8n community node for trading HIP-3 (xyz) assets on Hyperliquid",
+  "keywords": ["n8n-community-node", "hyperliquid", "hip3", "xyz"],
+  "license": "MIT",
+  "homepage": "https://hyperliquid.xyz",
+  "author": "Community",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": ["dist"],
+  "scripts": {
+    "build": "tsc",
+    "lint": "echo \"lint skipped\""
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "ethers": "^6.8.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  }
+}
